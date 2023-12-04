@@ -1,2 +1,2 @@
 # odin-recipes
-A simple website with a recipe.
+A simple website with recipes for varios dishes. Bon Appetite!
